@@ -1,22 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep  4 18:40:01 2018
-
-@author: OLUWABAMISE
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug  8 14:11:09 2018
-@author: shuayb
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Created on Wed Aug  8 08:28:50 2018
-@author: shuayb
+
+@author: OLUWABAMISE AND POSH
 """
 
 #User Inputs
